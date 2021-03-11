@@ -1,4 +1,4 @@
-Department,Name,Estimated_Labor_Hours,Frequency,Days_Past_Due
+Department,Name,Estimated_Labor_Hours,Frequency,Past_Due
 Electrical,Peter,10,90 Days,1
 Mechanical,Sam,12,90 Days,0
 Electrical,Sam,4,30 Days,0
